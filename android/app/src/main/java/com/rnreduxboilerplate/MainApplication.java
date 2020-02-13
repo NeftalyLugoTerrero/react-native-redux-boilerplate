@@ -1,4 +1,4 @@
-package com.rnboilerplate;
+package com.rnreduxboilerplate;
 
 import android.app.Application;
 import android.content.Context;
