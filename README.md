@@ -1,6 +1,6 @@
-# React Native Boilerplate
+# React Native Redux Boilerplate
 
-React Native Boilerplate is a starting point for React Native application. It is helpful to quick start developing with a well structured project and the minimum required dependencies.
+React Native Redux Boilerplate is a starting point for React Native application. It is helpful to quick start developing with a well structured project and the minimum required dependencies.
 
 This boilerplate is structured based on the post [An efficient way to structure React Native projects](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/).
 
@@ -71,10 +71,10 @@ The directories we use to organize the `components`
 
 > In each component directory, we have an **index.js** file that exports the specified category.
 
-*Note: The **App.js** in the project root was removed, instead we use* **[src/index.js](https://github.com/NeftalyLT/react-native-boilerplate/blob/master/src/index.js)**
+*Note: The **App.js** in the project root was removed, instead we use* **[src/index.js](https://github.com/NeftalyLT/react-native-redux-boilerplate/blob/master/src/index.js)**
 
 ## License
 
-This project is released under the  [MIT License](https://github.com/NeftalyLT/react-native-boilerplate/blob/master/LICENSE).
+This project is released under the  [MIT License](https://github.com/NeftalyLT/react-native-redux-boilerplate/blob/master/LICENSE).
 
 Feel free to remove the LICENSE file and the "License" section from the README if your project is not open source.
